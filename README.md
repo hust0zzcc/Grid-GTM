@@ -17,7 +17,7 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
-#Usage
+# Usage
 ***
 ```
 Run: Gird-GTM.exe “file_path“  “img_l” “img_r”
@@ -27,7 +27,7 @@ Run: Gird-GTM.exe “file_path“  “img_l” “img_r”
 ``img_l``: the name of the left image.  
 ``img_r``: the name of the right image.  
 
-#Dataset
+# Dataset
 ***
 ``1affine.txt``: affine informations around key-points in the left image.  
 ``1des.txt``: descriptors in the left image.  
